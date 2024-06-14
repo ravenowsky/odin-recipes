@@ -1,0 +1,19 @@
+h1.odin-recipes {
+    text-align: center;
+    font-family: 'Courier New', serif;
+    background-color: #F83610;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.ul-recipes {
+    text-align: center;
+    background-color: #E38775;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 40px;
+}
