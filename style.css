@@ -1,6 +1,9 @@
+* {
+    font-family: 'Courier New', serif;
+}
+
 h1.odin-recipes {
     text-align: center;
-    font-family: 'Courier New', serif;
     background-color: #F83610;
     font-weight: bold;
     font-size: 60px;
@@ -16,4 +19,43 @@ a {
     color: black;
     text-transform: uppercase;
     font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', serif;
+    background-color: #F83610;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: auto;
+    height: 400px;
+}
+
+.descrip {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.ingr, .howto {
+    font-size: 30px;
+    background-color: #DC4937;
+}
+
+ul, .ol {
+    background-color: #FFB2A9;
+}
+
+.crust, .fill {
+    font-size: 20px;
+    background-color: #FFB2A9;
 }
